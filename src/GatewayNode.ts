@@ -129,7 +129,7 @@ class GatewayNode extends UiComponent /* implements Checkable */ {
         // this.flag.tag.element.remove()
         // this.link.textContent = ''
         // this.link.append(this.flag.tag.element, anchor)
-        this.link.innerHTML = `<a title="${host}" href="${url.toString()}${location.search}" target="_blank">${host}</a>`
+        this.link.innerHTML = `<a title="${host}" href="${url.toString().replace('bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m',location.pathname)}${location.search}" target="_blank">${host}</a>`
       }
       const ms = Date.now() - this.checkingTime
       this.tag.style.order = ms.toString()
