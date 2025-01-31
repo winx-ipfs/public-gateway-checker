@@ -45,7 +45,6 @@
 	"https://i0.img2ipfs.com/ipfs/:hash",
 	"https://gateway.ipfsscan.io/ipfs/:hash",
 	"https://lensshare.4everland.link/ipfs/:hash",
-	"https://snapshot.4everland.link/ipfs/:hash",
 	"https://flair-indexing.4everland.link/ipfs/:hash",
 	"https://ogpotheads.4everland.link/ipfs/:hash",
 	"https://lxdaoipfs.4everland.link/ipfs/:hash",
@@ -61,6 +60,5 @@
 	"https://gateway.crust.fans/ipfs/:hash",
 	"https://gw.w3ipfs.cn:10443/ipfs/:hash",
 	"https://gw-seattle.crustcloud.io/ipfs/:hash",
-	"https://gw.smallwolf.me/ipfs/:hash",
 	"https://cru.izhong.top/ipfs/:hash"
 ]
