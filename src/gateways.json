@@ -62,5 +62,6 @@
 	"https://trustless-gateway.link/ipfs/:hash",
 	"https://storry.tv/ipfs/:hash",
 	"https://replace-farm-swung.quicknode-ipfs.com/ipfs/:hash",
+	"https://gateway-ipfs.st/ipfs/:hash",
 	"https://cru.izhong.top/ipfs/:hash"
 ]
